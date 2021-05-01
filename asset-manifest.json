@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5122e3d.chunk.css",
+    "main.js": "/static/js/main.1406d743.chunk.js",
+    "main.js.map": "/static/js/main.1406d743.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.abf55560.js",
+    "runtime-main.js.map": "/static/js/runtime-main.abf55560.js.map",
+    "static/js/2.0a401e82.chunk.js": "/static/js/2.0a401e82.chunk.js",
+    "static/js/2.0a401e82.chunk.js.map": "/static/js/2.0a401e82.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.254cfb14e2f12368574b5e3f2b7004d5.js": "/precache-manifest.254cfb14e2f12368574b5e3f2b7004d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a5122e3d.chunk.css.map": "/static/css/main.a5122e3d.chunk.css.map",
+    "static/js/2.0a401e82.chunk.js.LICENSE.txt": "/static/js/2.0a401e82.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/micheile-henderson-_HIlJ_popSQ-unsplash.917c560c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abf55560.js",
+    "static/js/2.0a401e82.chunk.js",
+    "static/css/main.a5122e3d.chunk.css",
+    "static/js/main.1406d743.chunk.js"
+  ]
+}
